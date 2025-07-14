@@ -9,24 +9,24 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID","23803580"))
-API_HASH = getenv("API_HASH","7d91da02949db09dc81df55532c93863")
+API_ID = int(getenv("API_ID","28209312"))
+API_HASH = getenv("API_HASH","89def84a7894bb696ff20174c86889a4")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN","7953139932:AAGzXvqUklOpNBxtqwJ7xeGHg2m26ODSubM")
+BOT_TOKEN = getenv("BOT_TOKEN","")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","NoMoreMaxim")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@x8Ahad")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NishaMusix_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Ivanxmusics_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐍ɪsʜᴀ 𝚡 𝐌ᴜsɪᴄ")
+BOT_NAME = getenv("BOT_NAME" , "🌊ᴡᴀᴠʏ ᴍᴜsɪᴄ🌊")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "CuteNishaa")
+ASSUSERNAME = getenv("ASSUSERNAME" , "wavyxmusic")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nishamusic:Nothing0000@nishamusicbot.dg20jss.mongodb.net/?retryWrites=true&w=majority&appName=NishaMusicBot")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002553338682"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002759072638"))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "7381712992"))
+OWNER_ID = int(getenv("OWNER_ID", "7550591956"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BUG-MUSIX/NishaMusic",
+    "https://github.com/Ahad6626/NishaMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SpicyxNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+hXY2z-kpAokwMDll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ivan_telegrams")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+m63eJ-Mc_jpjMzll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION",  "BQFrNrwAllBxwMoFCJTPrICEbtl0zOZ1dabVObhPRgVklQETKmYj_qs5RmqkvRGDv-5RghzesjkYbOzPvGBCD9GLsPnXF1i72BROvUbpExZmJCypxGA3eZK4qpHXfX8IaioTsIt3ZdlDhDuiIu61fUA0SZuCoRKD8eTfuwnvvnYQuO3aCsviQ312eaKCKkhClCQByC9MK9pdv82FR3r-qZxekj17ZJXou5uT4TwvDk3H_U7fnjf-GqHid84mmll5uYpqkmtjf43dw6EcTtKotv3CTZgnqcpHmcdylFLNb6xhKtzd-L-OtlbVmE_wJXaua3Gk9BkyxQmYh8DvDWbeOeh0KH6U-QAAAAF0VV_2AA")
+STRING1 = getenv("STRING_SESSION",  None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "START_IMG_URL", "https://graph.org/file/33fbec85bcf06dccc7c25-d3a85fd8fe85a3aab4.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
