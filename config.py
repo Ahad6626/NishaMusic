@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("BQCOaU4Ae_5NBETJrfynCZeeGkNxQvo6FwqOtA1gc0qOVNCmlAZeCeHxsOrm23zbuoM4uTveqd4xAMSRAhb5YX_iGJXuIT-9tLtMEf4AGHearLbjW_PKZ-nGjXzsLyGDJtmIn-8-Ha3p-Yftzhe658_1fYb9zNTAZJ2h-uT2B3AkF-BKOYQRfAmjI_W30W2yrmFf0drPufxesX-rdRe89Fy0ypDTAV6w-RfHoB8YlxifFHB8MSERgiIUOQYU3I07mcswXWDB8xoVMSnAI-PttPun2MIvm9ukeH24vdWie1dj4SHEFyvhGwCOz9XFRcoTLyQ4wjPSCifCO0k-9E79rZXifwh_XAAAAAHTjGJ1AA",  None)
+STRING1 = getenv("STRING_SESSION","BQCOaU4AmdPNrd2S4c9zXJJceGVZkLYtUGx0MpvocSyUZ8Y3GGlvgJdERm0ZXaeiYfst5RhMWxqRqLfjXll_eWit2q0q2SKI1oXaXCMGlDQ93Rw9s5G3eo5MCnTrWPaIf-aVELnkfpwYdr48Zb-Mw0FP7tGhQfySbPI8HNf8eQuO6geQmlW-FkbDmo2pboMphCFebltbWzZXVeuQPqpeCSSXOfUdickf4AHm4XUzI59Vv98fkWcDn6qDBZy6-P2Ts8cMDxXIoHrj3u0qOoxE6_suGAqirP70Y1BREFymPswohFJwsP7Fb1l9dwJNpG68Jmbscr3Qm7Y688v9tBJsu6KNU9eO5wAAAAHTjGJ1AA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
